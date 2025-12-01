@@ -1,0 +1,22 @@
+{
+  "folders": [
+	{
+		"path": "../../../p21"
+	},
+	{
+		"path": "../file handling"
+	},
+	{
+		"path": "../PROJECT"
+	},
+	{
+		"path": "../CHALLANGE"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Bank management"
+  }
+}
